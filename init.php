@@ -4,4 +4,6 @@
 
     echo "Deploy start";
     echo "Deploy finish";
+
+    echo "Deploy init";
 ?>
