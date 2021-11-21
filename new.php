@@ -1,3 +1,3 @@
 <?php
-    echo "New file jjj";
+    echo "New file directoy new";
 ?>
